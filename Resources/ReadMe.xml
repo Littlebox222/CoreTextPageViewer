@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ASD_STRING_DICT</key>
+	<dict>
+		<key>ASD_RANGES</key>
+		<array>
+			<array>
+				<integer>0</integer>
+				<integer>8721</integer>
+				<dict>
+					<key>ASD_FONT</key>
+					<array>
+						<string>TimesNewRomanPSMT</string>
+						<real>18</real>
+					</array>
+					<key>NSParagraphStyle</key>
+					<array>
+						<integer>2</integer>
+						<real>0.0</real>
+						<real>0.0</real>
+						<real>0.0</real>
+						<real>0.0</real>
+						<real>0.0</real>
+						<real>0.0</real>
+						<real>0.0</real>
+						<real>0.0</real>
+					</array>
+				</dict>
+			</array>
+		</array>
+		<key>ASD_STRING</key>
+		<string>CoreText Page Drawing Sample
+</string>
+	</dict>
+	<key>ASD_VERSION</key>
+	<array>
+		<integer>1</integer>
+		<integer>1</integer>
+	</array>
+</dict>
+</plist>
